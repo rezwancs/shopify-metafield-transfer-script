@@ -69,6 +69,6 @@ MIT License
 
 ---
 
-**Author:** [Your Name]
+**Author:** Rezwan Al Kaoser
 
 Feel free to contribute or open issues for improvements! 
